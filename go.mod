@@ -1,4 +1,4 @@
-module github.com/flipped-aurora/ws
+module github.com/flyphant/ws
 
 go 1.16
 
