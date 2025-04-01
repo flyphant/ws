@@ -10,7 +10,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 // Init logger初始化
