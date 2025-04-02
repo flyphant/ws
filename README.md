@@ -1,6 +1,6 @@
 # WebSocket
 
-引用 nhooyr.io/websocket 进行二次封装 本工具包采用`CQRS`模式, 发送指令通过HTTP的接口,处理命令后通过WS通知WEB端
+引用 github.com/coder/websocket 进行二次封装 本工具包采用`CQRS`模式, 发送指令通过HTTP的接口,处理命令后通过WS通知WEB端
 
 ## 项目结构
 
@@ -42,7 +42,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 // Init logger初始化

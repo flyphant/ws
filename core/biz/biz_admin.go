@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"nhooyr.io/websocket"
+	"github.com/coder/websocket"
 )
 
 const CheckNull = "CheckNull"
