@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/gin-gonic/gin"
 	"github.com/coder/websocket"
+	"github.com/gin-gonic/gin"
 )
 
 const CheckNull = "CheckNull"
